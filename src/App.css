@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+body{
+  text-align: center;
+  background-image: linear-gradient(rgb(149, 210, 221)10%,rgb(187, 100, 100) 40%,white);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-repeat: repeat-y; */
+  /* background-image: re; */
+  height: 100vh;
+  line-height: 3;
+}
+h1{
+  letter-spacing: 5px;
+}
